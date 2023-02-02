@@ -1,13 +1,6 @@
 ### About me ###
 My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation Level certificate. I am also at the finish line to complete 100% of the uTest Academy course where apart from learning theory I also attended my first test cycles. My goal is to develop testing knowledge and technical skills to become a fully qualified QA specialist. On this site, I would like to share my all gained experience from personal studies and research.
 
-### Browsers used for testing: ###
-- Firefox
-- Chrome
-- Edge
-- Opera
-- Brave
-
 ### Tools: ###
 - PicPick - Screen capture software
 - XRecorder - Mobile screen capture software
@@ -29,6 +22,13 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 - Software testing
 - Creating test cases
 - Reporting bugs
+
+### Browsers used for testing: ###
+- Firefox
+- Chrome
+- Edge
+- Opera
+- Brave
 
 ### Blogs & Books read: ###
 - testerzy.pl
