@@ -39,5 +39,5 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 ### My test case example: ###
 [Test case example](https://docs.google.com/document/d/14zQ-29xfVh6tPFzqAZv6hoGk2t5CfIASmTv7TuuBS8M/edit?usp=sharing)
 
-### My bug report example: ###
+### My bug reports examples: ###
 [Issues · lskimina/bugreports](https://github.com/lskimina/bugreports/issues)
