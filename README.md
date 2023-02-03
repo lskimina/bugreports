@@ -17,6 +17,7 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 - HTML
 - CSS
 - Linux (Debian)
+- Scrum, Agile, Kan-Ban
 
 ### Tech skills: ###
 - Software testing
