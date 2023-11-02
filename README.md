@@ -1,5 +1,11 @@
 ### About me ###
-My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation Level certificate. I am also at the finish line to complete 100% of the uTest Academy course where apart from learning theory I also attended my first test cycles. My goal is to develop testing knowledge and technical skills to become a fully qualified QA specialist. On this site, I would like to share my all gained experience from personal studies and research.
+My name is Łukasz Skimina. I am an enthusiast in the IT industry and I would like to share my passion and dedication for software testing, with a particular emphasis on SQL proficiency. Although my experience is still at an early stage, I have had the opportunity to actively develop my skills on the uTest platform for three months.
+
+During my short but intensive journey in testing, I focused on learning how to create test cases and scenarios, as well as reporting bugs. Additionally, I gained knowledge in SQL language and the basics of designing relational databases.
+
+My determination and eagerness for development are crucial to me, which is why I constantly strive to expand my skills in software testing and SQL database management.
+
+I am confident that my commitment and openness to learning will allow me to quickly advance in this field and contribute to the improvement of IT product quality.
 
 ### Tools: ###
 - PicPick - Screen capture software
@@ -10,7 +16,7 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 - Jira
 - Platform-tools
 - Charles Web Debugging Proxy
-- Git (GitBash, GitHub, GitLab)
+- GitHub
 - Devtools
 - BugMagnet
 - C++
@@ -23,6 +29,7 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 - Software testing
 - Creating test cases
 - Reporting bugs
+- Writing SQL queries
 
 ### Browsers used for testing: ###
 - Firefox
@@ -35,7 +42,9 @@ My name is Łukasz Skimina. Currently, I am working toward my ISTQB Foundation L
 - testerzy.pl
 - wyszkolewas.com.pl
 - "Certyfikowany tester ISTQB poziom podstawowy" by Adam Roman, Lucjan Stapp
-- "Zawód tester" by Radosław Smilgin - unfinished
+- "Zawód tester" by Radosław Smilgin
+- "Zapytania w SQL przyjazny przewodnik." by John Viescas , Michael J. Hernandez
+- "Six-step Relational Database Design" by Fidel A. Captain
 
 ### My test case example: ###
 [Test case example](https://docs.google.com/document/d/14zQ-29xfVh6tPFzqAZv6hoGk2t5CfIASmTv7TuuBS8M/edit?usp=sharing)
